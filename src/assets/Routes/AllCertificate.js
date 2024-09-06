@@ -15,6 +15,7 @@ import Certificate14 from "../img/certificate14.png";
 import Certificate15 from "../img/certificate15.png";
 import Certificate16 from "../img/certificate16.jpg";
 
+
 const certificateImages = [
   Certificate2,
   Certificate3,
@@ -32,6 +33,7 @@ const certificateImages = [
   Certificate14,
   Certificate15,
   Certificate16,
+
 ];
 
 export default certificateImages;

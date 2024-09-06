@@ -18,7 +18,7 @@ function Footer() {
             &nbsp;&nbsp;GitHub
           </a>
           <a
-            href="https:https://www.linkedin.com/in/alif-septiandi-811062231/"
+            href="https://www.linkedin.com/in/alif-septiandi-811062231/"
             target="_blank"
             rel="noreferrer"
           >
